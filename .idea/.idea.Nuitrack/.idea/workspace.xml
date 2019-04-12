@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14558da5-a8ea-4b06-a793-226e777c5edf" name="Default Changelist" comment="" />
+    <list default="true" id="14558da5-a8ea-4b06-a793-226e777c5edf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Nuitrack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nuitrack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nuitrack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +17,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/local.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
+            <state relative-caret-position="640">
               <caret line="25" column="74" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
               <folding>
                 <marker date="1554963151478" expanded="false" signature="6:78" ph="..." />
@@ -26,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/CurrentUserTracker.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -48,7 +52,32 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <marker date="1536319926000" expanded="false" signature="0:202" ph="Description" />
+                <marker date="1536319926000" expanded="true" signature="21:190" ph="/* The script performs a direct translation of the skeleton using only the position data of the joints. ... */" />
+                <marker date="1536319926000" expanded="false" signature="211:257" ph="..." />
+                <marker date="1536319926000" expanded="true" signature="357:1569" ph="{...}" />
+                <marker date="1536319926000" expanded="true" signature="512:806" ph="{...}" />
+                <marker date="1536319926000" expanded="true" signature="626:762" ph="{...}" />
+                <marker date="1536319926000" expanded="true" signature="825:1393" ph="{...}" />
+                <marker date="1536319926000" expanded="true" signature="880:1310" ph="{...}" />
+                <marker date="1536319926000" expanded="true" signature="1063:1300" ph="{...}" />
+                <marker date="1536319926000" expanded="true" signature="1323:1387" ph="{...}" />
+                <marker date="1536319926000" expanded="true" signature="1452:1567" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/CurrentUserTracker.cs" root0="FORCE_HIGHLIGHTING" />
@@ -75,15 +104,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,11 +162,12 @@
       <workItem from="1554955374700" duration="816000" />
       <workItem from="1554962795041" duration="955000" />
       <workItem from="1554970580585" duration="599000" />
+      <workItem from="1555051002354" duration="658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3558000" />
+    <option name="totallyTimeSpent" value="4216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -149,9 +179,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1980" y="21" width="1304" height="620" extended-state="0" />
+    <frame x="1980" y="20" width="1304" height="620" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1511254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15353698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -218,29 +249,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <marker date="1536319926000" expanded="false" signature="0:202" ph="Description" />
-            <marker date="1536319926000" expanded="true" signature="21:190" ph="/* The script performs a direct translation of the skeleton using only the position data of the joints. ... */" />
-            <marker date="1536319926000" expanded="false" signature="211:257" ph="..." />
-            <marker date="1536319926000" expanded="true" signature="357:1569" ph="{...}" />
-            <marker date="1536319926000" expanded="true" signature="512:806" ph="{...}" />
-            <marker date="1536319926000" expanded="true" signature="626:762" ph="{...}" />
-            <marker date="1536319926000" expanded="true" signature="825:1393" ph="{...}" />
-            <marker date="1536319926000" expanded="true" signature="880:1310" ph="{...}" />
-            <marker date="1536319926000" expanded="true" signature="1063:1300" ph="{...}" />
-            <marker date="1536319926000" expanded="true" signature="1323:1387" ph="{...}" />
-            <marker date="1536319926000" expanded="true" signature="1452:1567" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/local.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
+        <state relative-caret-position="640">
           <caret line="25" column="74" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
           <folding>
             <marker date="1554963151478" expanded="false" signature="6:78" ph="..." />
@@ -268,6 +279,26 @@
             <marker date="1543482015000" expanded="true" signature="1475:1581" ph="{...}" />
             <marker date="1543482015000" expanded="true" signature="1612:1777" ph="{...}" />
             <marker date="1543482015000" expanded="true" signature="1808:1941" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <marker date="1536319926000" expanded="false" signature="0:202" ph="Description" />
+            <marker date="1536319926000" expanded="true" signature="21:190" ph="/* The script performs a direct translation of the skeleton using only the position data of the joints. ... */" />
+            <marker date="1536319926000" expanded="false" signature="211:257" ph="..." />
+            <marker date="1536319926000" expanded="true" signature="357:1569" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="512:806" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="626:762" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="825:1393" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="880:1310" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="1063:1300" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="1323:1387" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="1452:1567" ph="{...}" />
           </folding>
         </state>
       </provider>

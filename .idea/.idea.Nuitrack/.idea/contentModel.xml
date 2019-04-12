@@ -4,6 +4,7 @@
     <e p="C:\Users\lzxxkj-PC\.Rider2018.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\lzxxkj-PC\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Nuitrack.116725872.00" t="ExcludeRecursive" />
     <e p="C:\Users\lzxxkj-PC\Documents\Nuitrack" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -210,6 +211,16 @@
               <e p="BackTextureCreator.cs" t="Include" />
               <e p="RGBCalibrationVisualizer.cs" t="Include" />
               <e p="SensorDisconnectChecker.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="GitHub" t="Include">
+            <e p="Editor" t="Include">
+              <e p="credits.txt" t="Include" />
+              <e p="eula.txt" t="Include" />
+              <e p="ExtensionLoader.cs" t="Include" />
+              <e p="UnityAPIWrapper.cs" t="Include" />
             </e>
           </e>
         </e>
