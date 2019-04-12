@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14558da5-a8ea-4b06-a793-226e777c5edf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/local.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="25" column="74" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+              <folding>
+                <marker date="1554963151478" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554963151478" expanded="true" signature="114:845" ph="{...}" />
+                <marker date="1554963151478" expanded="true" signature="186:581" ph="{...}" />
+                <marker date="1554963151478" expanded="true" signature="193:575" ph="/* Debug.Log(transform.position); ... */" />
+                <marker date="1554963151478" expanded="true" signature="639:843" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/CurrentUserTracker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1543482015000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1543482015000" expanded="true" signature="46:273" ph="/* logic (and number of tracked users) may change from app to app ... */" />
+                <marker date="1543482015000" expanded="true" signature="322:1949" ph="{...}" />
+                <marker date="1543482015000" expanded="true" signature="638:1158" ph="{...}" />
+                <marker date="1543482015000" expanded="true" signature="657:1152" ph="{...}" />
+                <marker date="1543482015000" expanded="true" signature="701:1113" ph="{...}" />
+                <marker date="1543482015000" expanded="true" signature="820:1053" ph="{...}" />
+                <marker date="1543482015000" expanded="true" signature="1177:1314" ph="{...}" />
+                <marker date="1543482015000" expanded="true" signature="1401:1947" ph="{...}" />
+                <marker date="1543482015000" expanded="true" signature="1475:1581" ph="{...}" />
+                <marker date="1543482015000" expanded="true" signature="1612:1777" ph="{...}" />
+                <marker date="1543482015000" expanded="true" signature="1808:1941" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/CurrentUserTracker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/local.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs" />
+        <option value="$PROJECT_DIR$/Assets/local.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1995" />
+    <option name="y" value="26" />
+    <option name="width" value="1630" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14558da5-a8ea-4b06-a793-226e777c5edf" name="Default Changelist" comment="" />
+      <created>1554889194282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554889194282</updated>
+      <workItem from="1554889200116" duration="1188000" />
+      <workItem from="1554955374700" duration="816000" />
+      <workItem from="1554962795041" duration="955000" />
+      <workItem from="1554970580585" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3558000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1980" y="21" width="1304" height="620" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1511254" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="15" side_tool="true" visible="true" weight="0.25614753" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <marker date="1547547446000" expanded="false" signature="6:52" ph="..." />
+            <marker date="1547547446000" expanded="true" signature="72:106" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="127:182" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="207:268" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="310:2401" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="592:802" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="665:796" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="821:2399" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="1059:2393" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="1120:2274" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="1707:2260" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="2291:2383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <marker date="1536319926000" expanded="false" signature="0:202" ph="Description" />
+            <marker date="1536319926000" expanded="true" signature="21:190" ph="/* The script performs a direct translation of the skeleton using only the position data of the joints. ... */" />
+            <marker date="1536319926000" expanded="false" signature="211:257" ph="..." />
+            <marker date="1536319926000" expanded="true" signature="357:1569" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="512:806" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="626:762" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="825:1393" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="880:1310" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="1063:1300" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="1323:1387" ph="{...}" />
+            <marker date="1536319926000" expanded="true" signature="1452:1567" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/local.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="25" column="74" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+          <folding>
+            <marker date="1554963151478" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554963151478" expanded="true" signature="114:845" ph="{...}" />
+            <marker date="1554963151478" expanded="true" signature="186:581" ph="{...}" />
+            <marker date="1554963151478" expanded="true" signature="193:575" ph="/* Debug.Log(transform.position); ... */" />
+            <marker date="1554963151478" expanded="true" signature="639:843" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/CurrentUserTracker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1543482015000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1543482015000" expanded="true" signature="46:273" ph="/* logic (and number of tracked users) may change from app to app ... */" />
+            <marker date="1543482015000" expanded="true" signature="322:1949" ph="{...}" />
+            <marker date="1543482015000" expanded="true" signature="638:1158" ph="{...}" />
+            <marker date="1543482015000" expanded="true" signature="657:1152" ph="{...}" />
+            <marker date="1543482015000" expanded="true" signature="701:1113" ph="{...}" />
+            <marker date="1543482015000" expanded="true" signature="820:1053" ph="{...}" />
+            <marker date="1543482015000" expanded="true" signature="1177:1314" ph="{...}" />
+            <marker date="1543482015000" expanded="true" signature="1401:1947" ph="{...}" />
+            <marker date="1543482015000" expanded="true" signature="1475:1581" ph="{...}" />
+            <marker date="1543482015000" expanded="true" signature="1612:1777" ph="{...}" />
+            <marker date="1543482015000" expanded="true" signature="1808:1941" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

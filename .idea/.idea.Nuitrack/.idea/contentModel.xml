@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lzxxkj-PC\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lzxxkj-PC\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Nuitrack.116725872.00" t="ExcludeRecursive" />
+    <e p="C:\Users\lzxxkj-PC\Documents\Nuitrack" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="local.cs" t="Include" />
+        <e p="NuitrackSDK" t="Include">
+          <e p="Nuitrack" t="Include">
+            <e p="Advanced" t="Include">
+              <e p="NuitrackAvatar.cs" t="Include" />
+              <e p="NuitrackAvatarAdvanced.cs" t="Include" />
+              <e p="RiggedAvatarAdvanced.cs" t="Include" />
+            </e>
+            <e p="CalibrationRotationScripts" t="Include">
+              <e p="CalibrationInfo.cs" t="Include" />
+              <e p="CamRotation.cs" t="Include" />
+              <e p="For ios" t="Include">
+                <e p="CameraRotation.cs" t="Include" />
+                <e p="SensorRotation.cs" t="Include" />
+              </e>
+              <e p="TPoseCalibration.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="BlendshapeWeights.cs" t="Include" />
+              <e p="CurrentUserTracker.cs" t="Include" />
+              <e p="DrawSegment.cs" t="Include" />
+              <e p="HandPressure.cs" t="Include" />
+              <e p="ModelJoint.cs" t="Include" />
+              <e p="NuitrackLoader.cs" t="Include" />
+              <e p="NuitrackManager.cs" t="Include" />
+              <e p="NuitrackUtils.cs" t="Include" />
+              <e p="SimpleSkeletonAvatar3d.cs" t="Include" />
+              <e p="SkeletonAvatar.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="GvrUnlitTransparentOverlayColor.shader" t="Include" />
+              <e p="ui_zignore_image.shader" t="Include" />
+              <e p="ui_zigonre_font.shader" t="Include" />
+            </e>
+          </e>
+          <e p="NuitrackDemos" t="Include">
+            <e p="FPSCounter" t="Include">
+              <e p="FPSCounter.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Debug" t="Include">
+                <e p="WristsPositionsDebug.cs" t="Include" />
+              </e>
+              <e p="DebugDepth.cs" t="Include" />
+              <e p="EmergencyExit.cs" t="Include" />
+              <e p="ExceptionsLogger.cs" t="Include" />
+              <e p="IssuesProcessor.cs" t="Include" />
+              <e p="ModulesUI.cs" t="Include" />
+              <e p="ModuleVisualisations" t="Include">
+                <e p="GesturesVisualization.cs" t="Include" />
+                <e p="HandTrackerVisualization.cs" t="Include" />
+                <e p="SkeletonsVisualization.cs" t="Include" />
+                <e p="SkeletonVisualization2.cs" t="Include" />
+                <e p="UserTrackerVisMesh.cs" t="Include" />
+                <e p="UserTrackerVisualization.cs" t="Include" />
+              </e>
+              <e p="NuitrackModules.cs" t="Include" />
+              <e p="SkeletonExample.cs" t="Include" />
+              <e p="TouchCameraControls.cs" t="Include" />
+              <e p="UserTrackerExample.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="CustomMesh.shader" t="Include" />
+              <e p="DepthSegmentationCustom.shader" t="Include" />
+              <e p="DiffuseVertexColored.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Platform Changer" t="Include">
+            <e p="Editor" t="Include">
+              <e p="PlatformChanger.cs" t="Include" />
+            </e>
+            <e p="EnviromentSwitcher.cs" t="Include" />
+            <e p="GameVersion.cs" t="Include" />
+            <e p="Manifests" t="Include">
+              <e p="Default" t="Include">
+                <e p="AndroidManifest_default.xml" t="Include" />
+              </e>
+              <e p="GearVR" t="Include">
+                <e p="AndroidManifest_GearVR.xml" t="Include" />
+              </e>
+            </e>
+            <e p="PlatformSetsData.cs" t="Include" />
+          </e>
+          <e p="Pointer" t="Include">
+            <e p="PointerPassing.cs" t="Include" />
+            <e p="PointerRotation.cs" t="Include" />
+            <e p="PointerVisuals.cs" t="Include" />
+            <e p="VVRInput.cs" t="Include" />
+          </e>
+          <e p="SafetyGrid" t="Include">
+            <e p="SensorPointReplacer.cs" t="Include" />
+          </e>
+          <e p="Tutorials" t="Include">
+            <e p="Animated Emoji" t="Include">
+              <e p="Final Assets" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="FaceAnimController.cs" t="Include" />
+                  <e p="FaceAnimManager.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="LerpRotation.cs" t="Include" />
+                <e p="PointFace.cs" t="Include" />
+              </e>
+            </e>
+            <e p="AR Football" t="Include">
+              <e p="README.txt" t="Include" />
+            </e>
+            <e p="Avatar Animation" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="RiggedAvatar.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Box (VR Mobile)" t="Include">
+              <e p="README.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="PunchSpeedMeter.cs" t="Include" />
+                <e p="PunchSpeedSender.cs" t="Include" />
+                <e p="RigidbodyFollower.cs" t="Include" />
+              </e>
+            </e>
+            <e p="FaceTracker" t="Include">
+              <e p="FinalAssets" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="FaceController.cs" t="Include" />
+                  <e p="FaceInfo.cs" t="Include" />
+                  <e p="FaceManager.cs" t="Include" />
+                  <e p="FaceSwitcher.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="First Project" t="Include">
+              <e p="NativeAvatar.cs" t="Include" />
+            </e>
+            <e p="HandTracker" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="GalleryControl.cs" t="Include" />
+                <e p="ImageItem.cs" t="Include" />
+                <e p="Pointer.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Motion Capture" t="Include">
+              <e p="FinalAssets" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="AnimatorAvatar.cs" t="Include" />
+                  <e p="ExperimentalRecorder.cs" t="Include" />
+                  <e p="GenericRecorder.cs" t="Include" />
+                  <e p="HumanoidRecoder.cs" t="Include" />
+                  <e p="IRecordable.cs" t="Include" />
+                  <e p="UnityAnimationRecorder.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Point Cloud" t="Include">
+              <e p="MouseOrbitImproved.cs" t="Include" />
+              <e p="PointCloud.cs" t="Include" />
+            </e>
+            <e p="RGBandSkeletons" t="Include">
+              <e p="FinalAssets" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="DrawColorFrame.cs" t="Include" />
+                  <e p="SimpleSkeletonAvatar.cs" t="Include" />
+                  <e p="SkeletonController.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="SegmentExample" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="FallingObject.cs" t="Include" />
+                <e p="GameColliders.cs" t="Include" />
+                <e p="GameProgress.cs" t="Include" />
+                <e p="ObjectSpawner.cs" t="Include" />
+                <e p="SegmentPaint.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="UnityChan" t="Include">
+            <e p="license.txt" t="Include" />
+            <e p="Models" t="Include">
+              <e p="UnityChanShader" t="Include">
+                <e p="Shader" t="Include">
+                  <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_eye.shader" t="Include" />
+                  <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_fuku.shader" t="Include" />
+                  <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+                  <e p="Unitychan_chara_hada.shader" t="Include" />
+                  <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_hair.shader" t="Include" />
+                  <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="VicoVRCalibrationRGB" t="Include">
+            <e p="Materials" t="Include">
+              <e p="Unlit-GS.shader" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="BackTextureCreator.cs" t="Include" />
+              <e p="RGBCalibrationVisualizer.cs" t="Include" />
+              <e p="SensorDisconnectChecker.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Nuitrack.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

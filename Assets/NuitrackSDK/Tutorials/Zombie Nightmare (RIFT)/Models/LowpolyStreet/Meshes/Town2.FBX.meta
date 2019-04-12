@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: 07a60759f1306b74d8e723a029ead72a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: apartament02
+    100002: apartment01
+    100004: Box01
+    100006: Box01b
+    100008: Box05
+    100010: Box07
+    100012: Box11
+    100014: Box12
+    100016: Box139
+    100018: Box142
+    100020: Box1530
+    100022: Box180
+    100024: Box1999
+    100026: Box2003
+    100028: Box2004
+    100030: Box2005
+    100032: Box2006
+    100034: Box2007
+    100036: Box2008
+    100038: Box2009
+    100040: Box2010
+    100042: Box2011
+    100044: Box2012
+    100046: Box2013
+    100048: Box2014
+    100050: Box2015
+    100052: Box2016
+    100054: Box2017
+    100056: Box2018
+    100058: Box2019
+    100060: Box2020
+    100062: Box2021
+    100064: Box2022
+    100066: Box2023
+    100068: Box2024
+    100070: Box2025
+    100072: Box2026
+    100074: Box2027
+    100076: Box2028
+    100078: Box221
+    100080: Box264
+    100082: Box42
+    100084: Box74
+    100086: Box75
+    100088: Box84
+    100090: Box86
+    100092: Box87
+    100094: Box89
+    100096: Box91
+    100098: building06
+    100100: building07
+    100102: Cylinder954
+    100104: Cylinder955
+    100106: Cylinder956
+    100108: Group64
+    100110: Group65
+    100112: Layout002
+    100114: Layout003
+    100116: Layout004
+    100118: Layout005
+    100120: Layout006
+    100122: Layout1
+    100124: Line37
+    100126: Object003dd
+    100128: Object003f
+    100130: Object01
+    100132: Object09
+    100134: Object10
+    100136: Object20
+    100138: Object203
+    100140: Object229
+    100142: Object255
+    100144: Object278
+    100146: Object306
+    100148: Object307
+    100150: Object308
+    100152: Object33
+    100154: Object62
+    100156: Object72
+    100158: office006
+    100160: office007
+    100162: office008
+    100164: office009
+    100166: office02
+    100168: office_005
+    100170: office_01
+    100172: office_04
+    100174: pCube96
+    100176: Plane01
+    100178: Plane220
+    100180: Rectangle107
+    100182: Rectangle110
+    100184: Rectangle111
+    100186: Rectangle113
+    100188: Rectangle114
+    100190: Rectangle116
+    100192: Rectangle1942
+    100194: Rectangle5079
+    100196: Rectangle5080
+    100198: Rectangle5232
+    100200: Rectangle54
+    100202: Rectangle59
+    100204: Rectangle7671
+    100206: Rectangle7700
+    100208: Rectangle7703
+    100210: Rectangle7710
+    100212: Rectangle7711
+    100214: Rectangle7712
+    100216: Rectangle7713
+    100218: Rectangle7714
+    100220: Rectangle7715
+    100222: Rectangle7716
+    100224: Rectangle7717
+    100226: Rectangle7718
+    100228: Rectangle7719
+    100230: Rectangle7720
+    100232: Rectangle7721
+    100234: Rectangle7722
+    100236: Rectangle79
+    100238: Rectangle86
+    100240: Shape01
+    100242: Shape517
+    100244: skyscraper_09
+    100246: //RootNode
+    400000: apartament02
+    400002: apartment01
+    400004: Box01
+    400006: Box01b
+    400008: Box05
+    400010: Box07
+    400012: Box11
+    400014: Box12
+    400016: Box139
+    400018: Box142
+    400020: Box1530
+    400022: Box180
+    400024: Box1999
+    400026: Box2003
+    400028: Box2004
+    400030: Box2005
+    400032: Box2006
+    400034: Box2007
+    400036: Box2008
+    400038: Box2009
+    400040: Box2010
+    400042: Box2011
+    400044: Box2012
+    400046: Box2013
+    400048: Box2014
+    400050: Box2015
+    400052: Box2016
+    400054: Box2017
+    400056: Box2018
+    400058: Box2019
+    400060: Box2020
+    400062: Box2021
+    400064: Box2022
+    400066: Box2023
+    400068: Box2024
+    400070: Box2025
+    400072: Box2026
+    400074: Box2027
+    400076: Box2028
+    400078: Box221
+    400080: Box264
+    400082: Box42
+    400084: Box74
+    400086: Box75
+    400088: Box84
+    400090: Box86
+    400092: Box87
+    400094: Box89
+    400096: Box91
+    400098: building06
+    400100: building07
+    400102: Cylinder954
+    400104: Cylinder955
+    400106: Cylinder956
+    400108: Group64
+    400110: Group65
+    400112: Layout002
+    400114: Layout003
+    400116: Layout004
+    400118: Layout005
+    400120: Layout006
+    400122: Layout1
+    400124: Line37
+    400126: Object003dd
+    400128: Object003f
+    400130: Object01
+    400132: Object09
+    400134: Object10
+    400136: Object20
+    400138: Object203
+    400140: Object229
+    400142: Object255
+    400144: Object278
+    400146: Object306
+    400148: Object307
+    400150: Object308
+    400152: Object33
+    400154: Object62
+    400156: Object72
+    400158: office006
+    400160: office007
+    400162: office008
+    400164: office009
+    400166: office02
+    400168: office_005
+    400170: office_01
+    400172: office_04
+    400174: pCube96
+    400176: Plane01
+    400178: Plane220
+    400180: Rectangle107
+    400182: Rectangle110
+    400184: Rectangle111
+    400186: Rectangle113
+    400188: Rectangle114
+    400190: Rectangle116
+    400192: Rectangle1942
+    400194: Rectangle5079
+    400196: Rectangle5080
+    400198: Rectangle5232
+    400200: Rectangle54
+    400202: Rectangle59
+    400204: Rectangle7671
+    400206: Rectangle7700
+    400208: Rectangle7703
+    400210: Rectangle7710
+    400212: Rectangle7711
+    400214: Rectangle7712
+    400216: Rectangle7713
+    400218: Rectangle7714
+    400220: Rectangle7715
+    400222: Rectangle7716
+    400224: Rectangle7717
+    400226: Rectangle7718
+    400228: Rectangle7719
+    400230: Rectangle7720
+    400232: Rectangle7721
+    400234: Rectangle7722
+    400236: Rectangle79
+    400238: Rectangle86
+    400240: Shape01
+    400242: Shape517
+    400244: skyscraper_09
+    400246: //RootNode
+    2100000: Standard_16
+    2100002: Standard_17
+    2100004: Standard_19
+    2100006: Standard_15
+    2100008: Standard_10
+    2100010: 1
+    2100012: Standard_13
+    2100014: Standard_20
+    2100016: Standard_23
+    2100018: 01 - Default
+    2100020: Billboards2
+    2100022: Standard_22
+    2100024: Billboards
+    2100026: Standard_11
+    2100028: 'Material #186174'
+    2100030: Road
+    2100032: 'Material #186044'
+    2100034: 'Material #186212'
+    2100036: Standard_5
+    2100038: 'Material #183655'
+    2100040: 'Material #184648'
+    2100042: 'Material #283'
+    2100044: Z3
+    2100046: 'Material #182336'
+    2100048: 'Material #183271'
+    2100050: Standard_12
+    2100052: 'Material #181257'
+    2100054: 'Material #183571'
+    2100056: 'Material #44'
+    2100058: asphalt_dry
+    2100060: 'Material #7'
+    2100062: grey
+    2100064: 'Material #184667'
+    2100066: Board01
+    2100068: Standard_4
+    2100070: 'Material #187616'
+    2100072: 'Material #186193'
+    2100074: 02 - Default1
+    2100076: 'Material #235'
+    2100078: 'Material #187635'
+    2100080: 'Material #280'
+    2100082: 'Material #187597'
+    2100084: sidewalk2
+    2100086: _building_07(quads)building
+    2100088: _office_04(quads)08___Default
+    2100090: _office_02(quads)NewNewoffice02
+    2100092: _building_06(quads)building
+    2100094: NewApartment_02
+    2100096: apartment01
+    2100098: building_09
+    2100100: _office_01(quads)Newoffice01
+    2100102: _building_03(quads)building
+    2100104: _building_01(quads)building
+    2100106: _building_02(quads)building
+    2100108: _office_03_office_03_quads_Newoffice_03
+    2300000: apartament02
+    2300002: apartment01
+    2300004: Box01
+    2300006: Box01b
+    2300008: Box05
+    2300010: Box07
+    2300012: Box11
+    2300014: Box12
+    2300016: Box139
+    2300018: Box142
+    2300020: Box1530
+    2300022: Box180
+    2300024: Box1999
+    2300026: Box2003
+    2300028: Box2004
+    2300030: Box2005
+    2300032: Box2006
+    2300034: Box2007
+    2300036: Box2008
+    2300038: Box2009
+    2300040: Box2010
+    2300042: Box2011
+    2300044: Box2012
+    2300046: Box2013
+    2300048: Box2014
+    2300050: Box2015
+    2300052: Box2016
+    2300054: Box2017
+    2300056: Box2018
+    2300058: Box2019
+    2300060: Box2020
+    2300062: Box2021
+    2300064: Box2022
+    2300066: Box2023
+    2300068: Box2024
+    2300070: Box2025
+    2300072: Box2026
+    2300074: Box2027
+    2300076: Box2028
+    2300078: Box221
+    2300080: Box264
+    2300082: Box42
+    2300084: Box74
+    2300086: Box75
+    2300088: Box84
+    2300090: Box86
+    2300092: Box87
+    2300094: Box89
+    2300096: Box91
+    2300098: building06
+    2300100: building07
+    2300102: Cylinder954
+    2300104: Cylinder955
+    2300106: Cylinder956
+    2300108: Layout002
+    2300110: Layout003
+    2300112: Layout004
+    2300114: Layout005
+    2300116: Layout006
+    2300118: Layout1
+    2300120: Line37
+    2300122: Object003dd
+    2300124: Object003f
+    2300126: Object01
+    2300128: Object09
+    2300130: Object10
+    2300132: Object20
+    2300134: Object203
+    2300136: Object229
+    2300138: Object255
+    2300140: Object278
+    2300142: Object306
+    2300144: Object307
+    2300146: Object308
+    2300148: Object33
+    2300150: Object62
+    2300152: Object72
+    2300154: office006
+    2300156: office007
+    2300158: office008
+    2300160: office009
+    2300162: office02
+    2300164: office_005
+    2300166: office_01
+    2300168: office_04
+    2300170: pCube96
+    2300172: Plane01
+    2300174: Plane220
+    2300176: Rectangle107
+    2300178: Rectangle110
+    2300180: Rectangle111
+    2300182: Rectangle113
+    2300184: Rectangle114
+    2300186: Rectangle116
+    2300188: Rectangle1942
+    2300190: Rectangle5079
+    2300192: Rectangle5080
+    2300194: Rectangle5232
+    2300196: Rectangle59
+    2300198: Rectangle7671
+    2300200: Rectangle7700
+    2300202: Rectangle7703
+    2300204: Rectangle7710
+    2300206: Rectangle7711
+    2300208: Rectangle7712
+    2300210: Rectangle7713
+    2300212: Rectangle7714
+    2300214: Rectangle7715
+    2300216: Rectangle7716
+    2300218: Rectangle7717
+    2300220: Rectangle7718
+    2300222: Rectangle7719
+    2300224: Rectangle7720
+    2300226: Rectangle7721
+    2300228: Rectangle7722
+    2300230: Rectangle79
+    2300232: Rectangle86
+    2300234: Shape01
+    2300236: Shape517
+    2300238: skyscraper_09
+    3300000: apartament02
+    3300002: apartment01
+    3300004: Box01
+    3300006: Box01b
+    3300008: Box05
+    3300010: Box07
+    3300012: Box11
+    3300014: Box12
+    3300016: Box139
+    3300018: Box142
+    3300020: Box1530
+    3300022: Box180
+    3300024: Box1999
+    3300026: Box2003
+    3300028: Box2004
+    3300030: Box2005
+    3300032: Box2006
+    3300034: Box2007
+    3300036: Box2008
+    3300038: Box2009
+    3300040: Box2010
+    3300042: Box2011
+    3300044: Box2012
+    3300046: Box2013
+    3300048: Box2014
+    3300050: Box2015
+    3300052: Box2016
+    3300054: Box2017
+    3300056: Box2018
+    3300058: Box2019
+    3300060: Box2020
+    3300062: Box2021
+    3300064: Box2022
+    3300066: Box2023
+    3300068: Box2024
+    3300070: Box2025
+    3300072: Box2026
+    3300074: Box2027
+    3300076: Box2028
+    3300078: Box221
+    3300080: Box264
+    3300082: Box42
+    3300084: Box74
+    3300086: Box75
+    3300088: Box84
+    3300090: Box86
+    3300092: Box87
+    3300094: Box89
+    3300096: Box91
+    3300098: building06
+    3300100: building07
+    3300102: Cylinder954
+    3300104: Cylinder955
+    3300106: Cylinder956
+    3300108: Layout002
+    3300110: Layout003
+    3300112: Layout004
+    3300114: Layout005
+    3300116: Layout006
+    3300118: Layout1
+    3300120: Line37
+    3300122: Object003dd
+    3300124: Object003f
+    3300126: Object01
+    3300128: Object09
+    3300130: Object10
+    3300132: Object20
+    3300134: Object203
+    3300136: Object229
+    3300138: Object255
+    3300140: Object278
+    3300142: Object306
+    3300144: Object307
+    3300146: Object308
+    3300148: Object33
+    3300150: Object62
+    3300152: Object72
+    3300154: office006
+    3300156: office007
+    3300158: office008
+    3300160: office009
+    3300162: office02
+    3300164: office_005
+    3300166: office_01
+    3300168: office_04
+    3300170: pCube96
+    3300172: Plane01
+    3300174: Plane220
+    3300176: Rectangle107
+    3300178: Rectangle110
+    3300180: Rectangle111
+    3300182: Rectangle113
+    3300184: Rectangle114
+    3300186: Rectangle116
+    3300188: Rectangle1942
+    3300190: Rectangle5079
+    3300192: Rectangle5080
+    3300194: Rectangle5232
+    3300196: Rectangle59
+    3300198: Rectangle7671
+    3300200: Rectangle7700
+    3300202: Rectangle7703
+    3300204: Rectangle7710
+    3300206: Rectangle7711
+    3300208: Rectangle7712
+    3300210: Rectangle7713
+    3300212: Rectangle7714
+    3300214: Rectangle7715
+    3300216: Rectangle7716
+    3300218: Rectangle7717
+    3300220: Rectangle7718
+    3300222: Rectangle7719
+    3300224: Rectangle7720
+    3300226: Rectangle7721
+    3300228: Rectangle7722
+    3300230: Rectangle79
+    3300232: Rectangle86
+    3300234: Shape01
+    3300236: Shape517
+    3300238: skyscraper_09
+    4300000: Box11
+    4300002: Box75
+    4300004: Box01b
+    4300006: Plane01
+    4300008: Box84
+    4300010: Box89
+    4300012: Box74
+    4300014: Box87
+    4300016: Object33
+    4300018: Rectangle79
+    4300020: Rectangle59
+    4300022: Rectangle1942
+    4300024: Box1530
+    4300026: Rectangle5232
+    4300028: Object203
+    4300030: Object72
+    4300032: Box180
+    4300034: Box221
+    4300036: Box264
+    4300038: Object229
+    4300040: Box05
+    4300042: Box142
+    4300044: Object09
+    4300046: Object255
+    4300048: Rectangle7671
+    4300050: Rectangle5080
+    4300052: Rectangle7700
+    4300054: pCube96
+    4300056: Box07
+    4300058: Object01
+    4300060: Object10
+    4300062: Box12
+    4300064: Box42
+    4300066: Object20
+    4300068: Object62
+    4300070: Rectangle86
+    4300072: Rectangle5079
+    4300074: Shape01
+    4300076: Box139
+    4300078: Rectangle7703
+    4300080: Cylinder954
+    4300082: Shape517
+    4300084: Box91
+    4300086: Box1999
+    4300088: Box2003
+    4300090: Object278
+    4300092: Plane220
+    4300094: Rectangle107
+    4300096: Line37
+    4300098: Rectangle110
+    4300100: Rectangle111
+    4300102: Rectangle113
+    4300104: Rectangle114
+    4300106: Rectangle116
+    4300108: Rectangle7710
+    4300110: Rectangle7711
+    4300112: Rectangle7712
+    4300114: Box86
+    4300116: Layout1
+    4300118: building07
+    4300120: office_04
+    4300122: office02
+    4300124: building06
+    4300126: apartament02
+    4300128: apartment01
+    4300130: skyscraper_09
+    4300132: office_01
+    4300134: Box01
+    4300136: Object003f
+    4300138: Object003dd
+    4300140: Layout002
+    4300142: office_005
+    4300144: Layout003
+    4300146: Layout004
+    4300148: Layout005
+    4300150: Layout006
+    4300152: Rectangle7713
+    4300154: Rectangle7714
+    4300156: Box2004
+    4300158: Box2005
+    4300160: Box2006
+    4300162: Object306
+    4300164: Object307
+    4300166: Rectangle7715
+    4300168: Rectangle7716
+    4300170: Box2007
+    4300172: Box2008
+    4300174: Box2009
+    4300176: Box2010
+    4300178: Box2011
+    4300180: Rectangle7717
+    4300182: Box2012
+    4300184: Box2013
+    4300186: Box2014
+    4300188: Box2015
+    4300190: Box2016
+    4300192: Box2017
+    4300194: Box2018
+    4300196: Box2019
+    4300198: Box2020
+    4300200: Rectangle7718
+    4300202: Rectangle7719
+    4300204: Cylinder955
+    4300206: Cylinder956
+    4300208: Rectangle7720
+    4300210: office006
+    4300212: office007
+    4300214: Rectangle7721
+    4300216: Rectangle7722
+    4300218: Box2021
+    4300220: Box2022
+    4300222: Box2023
+    4300224: Box2024
+    4300226: office008
+    4300228: office009
+    4300230: Object308
+    4300232: Box2025
+    4300234: Box2026
+    4300236: Box2027
+    4300238: Box2028
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 972e2fe5db4a45840912609b31c98a07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default1
+    second: {fileID: 2100000, guid: 239fd2c7f3b75e4448af9d09e6a5e420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2100000, guid: ffd44964d9d44544fb17ec4db3301189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Billboards
+    second: {fileID: 2100000, guid: b48c39c2322353a40a1c7f29b371d441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Billboards2
+    second: {fileID: 2100000, guid: 139f1950b61cb9f4a827e9733792e865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board01
+    second: {fileID: 2100000, guid: f092b0a9e4260a14ab17d433c5c6eef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #181257'
+    second: {fileID: 2100000, guid: c0ec901db0d1cde4cba68ff6c946f220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #182336'
+    second: {fileID: 2100000, guid: c88692deff323cf4d8d3fed43829f712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #183271'
+    second: {fileID: 2100000, guid: 30fd78042b6485e4890a7957d1d1eb30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #183571'
+    second: {fileID: 2100000, guid: 2737462660353714790b445c7e901a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #183655'
+    second: {fileID: 2100000, guid: 6ae330aea6db6ae4ea890f759a06800a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #184648'
+    second: {fileID: 2100000, guid: 52dc2c8bb36b96942ba5b456bcac6d20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #184667'
+    second: {fileID: 2100000, guid: 8bf04f13600bfb149829c6c9bb06a15f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #186044'
+    second: {fileID: 2100000, guid: b4a2894acc455964db107ee1ddc2cf3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #186174'
+    second: {fileID: 2100000, guid: 4ecd507f264d5bb49a5a78f86fa0bf6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #186193'
+    second: {fileID: 2100000, guid: 444538aeb58a2384aa246f81425fad56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #186212'
+    second: {fileID: 2100000, guid: 8c3cb26fa050cc64a9f5fe8f88eda01c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #187597'
+    second: {fileID: 2100000, guid: dc3e285091c607541a18a6f0ce9d6faf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #187616'
+    second: {fileID: 2100000, guid: a8622d110229acf47b040a580071245d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #187635'
+    second: {fileID: 2100000, guid: 2d27ae6d4dceb8e4dbc8241bd99efe39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #235'
+    second: {fileID: 2100000, guid: 9b42f9378fe180941bd2854543e61539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #280'
+    second: {fileID: 2100000, guid: ee7a6913b8b16fb4387a38f6c37409fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #283'
+    second: {fileID: 2100000, guid: 800194d5d2d84f3409263dc3ea2431e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #44'
+    second: {fileID: 2100000, guid: f86ea5aa21cfc434d9bf3a7d4be8f1fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #7'
+    second: {fileID: 2100000, guid: 5c503216bcc8b3b48a3e5274104f9476, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NewApartment_02
+    second: {fileID: 2100000, guid: 0aafeaa1126b7be45b47501aa10c5d62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road
+    second: {fileID: 2100000, guid: e652f73269ed5e74295834ffbcdf96cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_10
+    second: {fileID: 2100000, guid: 87b9eca1f582344418c6f445fbbeb55c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_11
+    second: {fileID: 2100000, guid: 7e7b28d5a5216b94a83f5268090973df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_12
+    second: {fileID: 2100000, guid: 905f182eae1d5e24b90a6db2dbec5663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_13
+    second: {fileID: 2100000, guid: 7ea56d3d5756b4a49b42be73d019b75e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_15
+    second: {fileID: 2100000, guid: c9d3e78077ea0ed4da86b32873523b26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_16
+    second: {fileID: 2100000, guid: c2bc5238ab5a6594db830210922aee55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_17
+    second: {fileID: 2100000, guid: 74210543590ca274b9e3a6a3f15ba2f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_19
+    second: {fileID: 2100000, guid: 8603f950c9f8d2e4f9feded9299e5355, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_20
+    second: {fileID: 2100000, guid: 84b6aa8f0edc31e499fef115368c0e57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_22
+    second: {fileID: 2100000, guid: 91042283495e4d24886e2c8ee1b55b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_23
+    second: {fileID: 2100000, guid: 95c868959c87a024b948ec99504b02eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_4
+    second: {fileID: 2100000, guid: 04997130d4d3b0e41aa0223255bc5b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_5
+    second: {fileID: 2100000, guid: 13521d45367939343879ad6350ccd664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z3
+    second: {fileID: 2100000, guid: 20d70dae1615a5c4f97f34060364d2d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _building_01(quads)building
+    second: {fileID: 2100000, guid: 3aefb5fe29fa9df4497ca936f07d33d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _building_02(quads)building
+    second: {fileID: 2100000, guid: 486ffc75d1bb2aa4f938efc9c26669a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _building_03(quads)building
+    second: {fileID: 2100000, guid: a76efacacc238a448bb77c2130f14189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _building_06(quads)building
+    second: {fileID: 2100000, guid: d13168f0795ce984d99987f27fe6da6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _building_07(quads)building
+    second: {fileID: 2100000, guid: b2280e7f40d8f1f49abd7642b9a2d992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _office_01(quads)Newoffice01
+    second: {fileID: 2100000, guid: d429852f2ec89a2439f166e5f4a177a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _office_02(quads)NewNewoffice02
+    second: {fileID: 2100000, guid: 38876142cf984bb4f97ab6b127061d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _office_03_office_03_quads_Newoffice_03
+    second: {fileID: 2100000, guid: d4ab9fd7f059a0f48956143e03804175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _office_04(quads)08___Default
+    second: {fileID: 2100000, guid: a906636cf05bbfe4783e049364595278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apartment01
+    second: {fileID: 2100000, guid: c44ea235b5070c04ab004a4bc383e5da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: asphalt_dry
+    second: {fileID: 2100000, guid: e85ada3aced1262449d21737b1a7599a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building_09
+    second: {fileID: 2100000, guid: cc7dfceab7df2054fa07a6cfebde5034, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey
+    second: {fileID: 2100000, guid: f7c4916d793cad848aabc55fdec435a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sidewalk2
+    second: {fileID: 2100000, guid: 05d43621b2b47fa4b815439ed153bfc9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
