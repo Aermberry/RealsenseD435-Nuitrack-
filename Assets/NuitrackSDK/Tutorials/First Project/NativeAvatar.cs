@@ -4,8 +4,6 @@
 // Objects in the skeleton will be created when the scene starts.
 
 #endregion
-
-
 using UnityEngine;
 using System.Collections.Generic;
 
@@ -34,8 +32,9 @@ public class NativeAvatar : MonoBehaviour
         if (CurrentUserTracker.CurrentUser != 0)
         {
             nuitrack.Skeleton skeleton = CurrentUserTracker.CurrentSkeleton;
-            message = "Skeleton found";
-
+            message = "Skeleton found";//通过CurrentUserTracker.CurrentSkeleton动态获取USER的信息
+            
+            //遍历信息到各个虚拟关节点信息上
             for (int q = 0; q < typeJoint.Length; q++)
             {
                 nuitrack.Joint joint = skeleton.GetJoint(typeJoint[q]);
