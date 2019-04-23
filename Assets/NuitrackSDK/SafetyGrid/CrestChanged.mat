@@ -31,4 +31,4 @@ Material:
     - <noninit>: 0
     m_Colors:
     - <noninit>: {r: 3.104571e-39, g: 2.9962187e-32, b: 5.804782e-34, a: 5.7515822e-33}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 0}

@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14558da5-a8ea-4b06-a793-226e777c5edf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nuitrack/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nuitrack/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Nuitrack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nuitrack/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/local.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/local.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NuitrackSDK/SafetyGrid/CrestChanged.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NuitrackSDK/SafetyGrid/CrestChanged.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/RGBandSkeletons/FinalAssets/RGBandSkeletons.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/RGBandSkeletons/FinalAssets/RGBandSkeletons.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/RGBandSkeletons/FinalAssets/Scripts/DrawColorFrame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/RGBandSkeletons/FinalAssets/Scripts/DrawColorFrame.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NuitrackSDK/UnityChan/Models/unitychan.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NuitrackSDK/UnityChan/Models/unitychan.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,46 +22,145 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/RGBandSkeletons/FinalAssets/Scripts/DrawColorFrame.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="54" column="37" lean-forward="true" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+            <state relative-caret-position="182">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding>
-                <marker date="1555395968921" expanded="false" signature="0:202" ph="Description" />
-                <marker date="1555395968921" expanded="true" signature="21:190" ph="/* The script performs a direct translation of the skeleton using only the position data of the joints. ... */" />
-                <marker date="1555395968921" expanded="true" signature="209:255" ph="..." />
-                <marker date="1555395968921" expanded="true" signature="355:1658" ph="{...}" />
-                <marker date="1555395968921" expanded="true" signature="510:804" ph="{...}" />
-                <marker date="1555395968921" expanded="true" signature="624:760" ph="{...}" />
-                <marker date="1555395968921" expanded="true" signature="823:1482" ph="{...}" />
-                <marker date="1555395968921" expanded="true" signature="878:1399" ph="{...}" />
-                <marker date="1555395968921" expanded="true" signature="1152:1389" ph="{...}" />
-                <marker date="1555395968921" expanded="true" signature="1412:1476" ph="{...}" />
-                <marker date="1555395968921" expanded="true" signature="1541:1656" ph="{...}" />
+                <marker date="1555486213623" expanded="false" signature="6:40" ph="..." />
+                <marker date="1555486213623" expanded="true" signature="85:354" ph="{...}" />
+                <marker date="1555486213623" expanded="true" signature="147:211" ph="{...}" />
+                <marker date="1555486213623" expanded="true" signature="258:352" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/CurrentUserTracker.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceInfo.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="84">
+              <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
               <folding>
-                <marker date="1543482015000" expanded="false" signature="6:44" ph="..." />
-                <marker date="1543482015000" expanded="true" signature="46:273" ph="/* logic (and number of tracked users) may change from app to app ... */" />
-                <marker date="1543482015000" expanded="true" signature="322:1949" ph="{...}" />
-                <marker date="1543482015000" expanded="true" signature="638:1158" ph="{...}" />
-                <marker date="1543482015000" expanded="true" signature="657:1152" ph="{...}" />
-                <marker date="1543482015000" expanded="true" signature="701:1113" ph="{...}" />
-                <marker date="1543482015000" expanded="true" signature="820:1053" ph="{...}" />
-                <marker date="1543482015000" expanded="true" signature="1177:1314" ph="{...}" />
-                <marker date="1543482015000" expanded="true" signature="1401:1947" ph="{...}" />
-                <marker date="1543482015000" expanded="true" signature="1475:1581" ph="{...}" />
-                <marker date="1543482015000" expanded="true" signature="1612:1777" ph="{...}" />
-                <marker date="1543482015000" expanded="true" signature="1808:1941" ph="{...}" />
+                <marker date="1555987787610" expanded="true" signature="63:130" ph="{...}" />
+                <marker date="1555987787610" expanded="true" signature="176:247" ph="{...}" />
+                <marker date="1555987787610" expanded="true" signature="288:516" ph="{...}" />
+                <marker date="1555987787610" expanded="true" signature="562:660" ph="{...}" />
+                <marker date="1555987787610" expanded="true" signature="703:776" ph="{...}" />
+                <marker date="1555987787610" expanded="true" signature="821:951" ph="{...}" />
+                <marker date="1555987787610" expanded="true" signature="991:1043" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/BlendshapeWeights.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+              <folding>
+                <marker date="1547547446000" expanded="true" signature="50:3688" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="290:692" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="384:432" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="467:515" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="528:576" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="737:1123" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="860:964" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="977:1081" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="1169:1561" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="1293:1399" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="1412:1518" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="1599:1776" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="1819:2178" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="1922:1973" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="1986:2037" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="2222:2590" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="2328:2380" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="2393:2445" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="2636:2800" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="2850:3028" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="3079:3257" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="3306:3471" ph="{...}" />
+                <marker date="1547547446000" expanded="true" signature="3521:3686" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/DrawSegment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="77" column="131" selection-start-line="77" selection-start-column="131" selection-end-line="77" selection-end-column="131" />
+              <folding>
+                <marker date="1543924788000" expanded="false" signature="6:34" ph="..." />
+                <marker date="1543924788000" expanded="true" signature="76:2016" ph="{...}" />
+                <marker date="1543924788000" expanded="true" signature="364:800" ph="{...}" />
+                <marker date="1543924788000" expanded="true" signature="822:895" ph="{...}" />
+                <marker date="1543924788000" expanded="true" signature="961:2014" ph="{...}" />
+                <marker date="1543924788000" expanded="true" signature="1140:1743" ph="{...}" />
+                <marker date="1543924788000" expanded="true" signature="1643:1733" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/Avatar Animation/Scripts/RiggedAvatar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <marker date="1527781071000" expanded="false" signature="6:52" ph="..." />
+                <marker date="1527781071000" expanded="true" signature="95:1659" ph="{...}" />
+                <marker date="1527781071000" expanded="true" signature="349:579" ph="{...}" />
+                <marker date="1527781071000" expanded="true" signature="408:573" ph="{...}" />
+                <marker date="1527781071000" expanded="true" signature="598:719" ph="{...}" />
+                <marker date="1527781071000" expanded="true" signature="773:1657" ph="{...}" />
+                <marker date="1527781071000" expanded="true" signature="1098:1651" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/SegmentExample/Scripts/SegmentPaint.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+              <folding>
+                <marker date="1527781071000" expanded="false" signature="6:40" ph="..." />
+                <marker date="1527781071000" expanded="true" signature="83:2146" ph="{...}" />
+                <marker date="1527781071000" expanded="true" signature="442:1062" ph="{...}" />
+                <marker date="1527781071000" expanded="true" signature="1084:1157" ph="{...}" />
+                <marker date="1527781071000" expanded="true" signature="1228:2005" ph="{...}" />
+                <marker date="1527781071000" expanded="true" signature="1400:1703" ph="{...}" />
+                <marker date="1527781071000" expanded="true" signature="2033:2144" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+              <folding>
+                <marker date="1555667685169" expanded="false" signature="6:52" ph="..." />
+                <marker date="1555667685169" expanded="true" signature="72:106" ph="{...}" />
+                <marker date="1555667685169" expanded="true" signature="127:182" ph="{...}" />
+                <marker date="1555667685169" expanded="true" signature="207:268" ph="{...}" />
+                <marker date="1555667685169" expanded="true" signature="310:2401" ph="{...}" />
+                <marker date="1555667685169" expanded="true" signature="592:802" ph="{...}" />
+                <marker date="1555667685169" expanded="true" signature="665:796" ph="{...}" />
+                <marker date="1555667685169" expanded="true" signature="821:2399" ph="{...}" />
+                <marker date="1555667685169" expanded="true" signature="1059:2393" ph="{...}" />
+                <marker date="1555667685169" expanded="true" signature="1120:2274" ph="{...}" />
+                <marker date="1555667685169" expanded="true" signature="1707:2260" ph="{...}" />
+                <marker date="1555667685169" expanded="true" signature="2291:2383" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -64,14 +168,27 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>faceController</find>
+      <find>faceControllers</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/CurrentUserTracker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/NuitrackManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../DEMO/Assets/components.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/RGBandSkeletons/FinalAssets/Scripts/SimpleSkeletonAvatar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/DrawSegment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/RGBandSkeletons/FinalAssets/Scripts/DrawColorFrame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35B14027-6B2F-460C-88E9-BBFD32CEFF37/14/093afcb6/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/Avatar Animation/Scripts/RiggedAvatar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/SegmentExample/Scripts/SegmentPaint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/BlendshapeWeights.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -79,14 +196,18 @@
         <option value="$PROJECT_DIR$/Assets/local.cs" />
         <option value="$PROJECT_DIR$/../DEMO/Assets/self.cs" />
         <option value="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs" />
+        <option value="$PROJECT_DIR$/../DEMO/Assets/components.cs" />
+        <option value="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/RGBandSkeletons/FinalAssets/Scripts/DrawColorFrame.cs" />
+        <option value="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceInfo.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-88" />
-    <option name="y" value="77" />
-    <option name="width" value="1939" />
-    <option name="height" value="1099" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="167" />
+    <option name="y" value="72" />
+    <option name="width" value="1508" />
+    <option name="height" value="758" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
@@ -94,14 +215,14 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,11 +275,17 @@
       <workItem from="1555051002354" duration="658000" />
       <workItem from="1555295992437" duration="2976000" />
       <workItem from="1555376353976" duration="3106000" />
+      <workItem from="1555399222303" duration="2214000" />
+      <workItem from="1555465122562" duration="8991000" />
+      <workItem from="1555566589208" duration="5629000" />
+      <workItem from="1555654211975" duration="3771000" />
+      <workItem from="1555913255666" duration="1222000" />
+      <workItem from="1555986054031" duration="1732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10298000" />
+    <option name="totallyTimeSpent" value="33857000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -170,9 +297,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-70" y="62" width="1551" height="879" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13145539" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14362416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -192,7 +320,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="15" side_tool="true" visible="true" weight="0.16733602" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" visible="true" weight="0.16756032" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -218,67 +346,29 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <marker date="1547547446000" expanded="false" signature="6:52" ph="..." />
-            <marker date="1547547446000" expanded="true" signature="72:106" ph="{...}" />
-            <marker date="1547547446000" expanded="true" signature="127:182" ph="{...}" />
-            <marker date="1547547446000" expanded="true" signature="207:268" ph="{...}" />
-            <marker date="1547547446000" expanded="true" signature="310:2401" ph="{...}" />
-            <marker date="1547547446000" expanded="true" signature="592:802" ph="{...}" />
-            <marker date="1547547446000" expanded="true" signature="665:796" ph="{...}" />
-            <marker date="1547547446000" expanded="true" signature="821:2399" ph="{...}" />
-            <marker date="1547547446000" expanded="true" signature="1059:2393" ph="{...}" />
-            <marker date="1547547446000" expanded="true" signature="1120:2274" ph="{...}" />
-            <marker date="1547547446000" expanded="true" signature="1707:2260" ph="{...}" />
-            <marker date="1547547446000" expanded="true" signature="2291:2383" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/local.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/NuitrackManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../DEMO/Assets/self.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/CurrentUserTracker.cs">
+    <entry file="file://$PROJECT_DIR$/../DEMO/Assets/components.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="192">
+          <caret line="9" column="37" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="37" />
           <folding>
-            <marker date="1543482015000" expanded="false" signature="6:44" ph="..." />
-            <marker date="1543482015000" expanded="true" signature="46:273" ph="/* logic (and number of tracked users) may change from app to app ... */" />
-            <marker date="1543482015000" expanded="true" signature="322:1949" ph="{...}" />
-            <marker date="1543482015000" expanded="true" signature="638:1158" ph="{...}" />
-            <marker date="1543482015000" expanded="true" signature="657:1152" ph="{...}" />
-            <marker date="1543482015000" expanded="true" signature="701:1113" ph="{...}" />
-            <marker date="1543482015000" expanded="true" signature="820:1053" ph="{...}" />
-            <marker date="1543482015000" expanded="true" signature="1177:1314" ph="{...}" />
-            <marker date="1543482015000" expanded="true" signature="1401:1947" ph="{...}" />
-            <marker date="1543482015000" expanded="true" signature="1475:1581" ph="{...}" />
-            <marker date="1543482015000" expanded="true" signature="1612:1777" ph="{...}" />
-            <marker date="1543482015000" expanded="true" signature="1808:1941" ph="{...}" />
+            <marker date="1555485480931" expanded="true" signature="6:78" ph="..." />
+            <marker date="1555485480931" expanded="true" signature="119:445" ph="{...}" />
+            <marker date="1555485480931" expanded="true" signature="293:364" ph="{...}" />
+            <marker date="1555485480931" expanded="true" signature="422:443" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/First Project/NativeAvatar.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="54" column="37" lean-forward="true" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+        <state relative-caret-position="1408">
+          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
           <folding>
             <marker date="1555395968921" expanded="false" signature="0:202" ph="Description" />
             <marker date="1555395968921" expanded="true" signature="21:190" ph="/* The script performs a direct translation of the skeleton using only the position data of the joints. ... */" />
-            <marker date="1555395968921" expanded="true" signature="209:255" ph="..." />
+            <marker date="1555395968921" expanded="false" signature="209:255" ph="..." />
             <marker date="1555395968921" expanded="true" signature="355:1658" ph="{...}" />
             <marker date="1555395968921" expanded="true" signature="510:804" ph="{...}" />
             <marker date="1555395968921" expanded="true" signature="624:760" ph="{...}" />
@@ -287,6 +377,199 @@
             <marker date="1555395968921" expanded="true" signature="1152:1389" ph="{...}" />
             <marker date="1555395968921" expanded="true" signature="1412:1476" ph="{...}" />
             <marker date="1555395968921" expanded="true" signature="1541:1656" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/NuitrackUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="59" column="50" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/RGBandSkeletons/FinalAssets/Scripts/SimpleSkeletonAvatar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <folding>
+            <marker date="1547547447000" expanded="false" signature="6:52" ph="..." />
+            <marker date="1547547447000" expanded="true" signature="103:5126" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="290:1006" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="1083:2584" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="1085:1242" ph="/* Right and left collars are currently located at the same point, that's why we use only 1 collar, ... */" />
+            <marker date="1547547447000" expanded="true" signature="2689:2732" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="2764:3540" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="2890:3143" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="2937:3133" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="3266:3534" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="3318:3524" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="3559:3664" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="3725:5124" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="3834:4279" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="3946:4168" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="4185:4269" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="4343:5118" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="4548:5014" ph="{...}" />
+            <marker date="1547547447000" expanded="true" signature="5031:5108" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/NuitrackManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6880">
+          <caret line="236" column="32" selection-start-line="236" selection-start-column="32" selection-end-line="236" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/ModelJoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/CurrentUserTracker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/RGBandSkeletons/FinalAssets/Scripts/DrawColorFrame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <marker date="1555486213623" expanded="false" signature="6:40" ph="..." />
+            <marker date="1555486213623" expanded="true" signature="85:354" ph="{...}" />
+            <marker date="1555486213623" expanded="true" signature="147:211" ph="{...}" />
+            <marker date="1555486213623" expanded="true" signature="258:352" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/DrawSegment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="77" column="131" selection-start-line="77" selection-start-column="131" selection-end-line="77" selection-end-column="131" />
+          <folding>
+            <marker date="1543924788000" expanded="false" signature="6:34" ph="..." />
+            <marker date="1543924788000" expanded="true" signature="76:2016" ph="{...}" />
+            <marker date="1543924788000" expanded="true" signature="364:800" ph="{...}" />
+            <marker date="1543924788000" expanded="true" signature="822:895" ph="{...}" />
+            <marker date="1543924788000" expanded="true" signature="961:2014" ph="{...}" />
+            <marker date="1543924788000" expanded="true" signature="1140:1743" ph="{...}" />
+            <marker date="1543924788000" expanded="true" signature="1643:1733" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/Avatar Animation/Scripts/RiggedAvatar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <marker date="1527781071000" expanded="false" signature="6:52" ph="..." />
+            <marker date="1527781071000" expanded="true" signature="95:1659" ph="{...}" />
+            <marker date="1527781071000" expanded="true" signature="349:579" ph="{...}" />
+            <marker date="1527781071000" expanded="true" signature="408:573" ph="{...}" />
+            <marker date="1527781071000" expanded="true" signature="598:719" ph="{...}" />
+            <marker date="1527781071000" expanded="true" signature="773:1657" ph="{...}" />
+            <marker date="1527781071000" expanded="true" signature="1098:1651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/SegmentExample/Scripts/SegmentPaint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <marker date="1527781071000" expanded="false" signature="6:40" ph="..." />
+            <marker date="1527781071000" expanded="true" signature="83:2146" ph="{...}" />
+            <marker date="1527781071000" expanded="true" signature="442:1062" ph="{...}" />
+            <marker date="1527781071000" expanded="true" signature="1084:1157" ph="{...}" />
+            <marker date="1527781071000" expanded="true" signature="1228:2005" ph="{...}" />
+            <marker date="1527781071000" expanded="true" signature="1400:1703" ph="{...}" />
+            <marker date="1527781071000" expanded="true" signature="2033:2144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35B14027-6B2F-460C-88E9-BBFD32CEFF37/14/093afcb6/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1964">
+          <caret line="37" column="57" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          <folding>
+            <marker date="1555667685169" expanded="false" signature="6:52" ph="..." />
+            <marker date="1555667685169" expanded="true" signature="72:106" ph="{...}" />
+            <marker date="1555667685169" expanded="true" signature="127:182" ph="{...}" />
+            <marker date="1555667685169" expanded="true" signature="207:268" ph="{...}" />
+            <marker date="1555667685169" expanded="true" signature="310:2401" ph="{...}" />
+            <marker date="1555667685169" expanded="true" signature="592:802" ph="{...}" />
+            <marker date="1555667685169" expanded="true" signature="665:796" ph="{...}" />
+            <marker date="1555667685169" expanded="true" signature="821:2399" ph="{...}" />
+            <marker date="1555667685169" expanded="true" signature="1059:2393" ph="{...}" />
+            <marker date="1555667685169" expanded="true" signature="1120:2274" ph="{...}" />
+            <marker date="1555667685169" expanded="true" signature="1707:2260" ph="{...}" />
+            <marker date="1555667685169" expanded="true" signature="2291:2383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Tutorials/FaceTracker/FinalAssets/Scripts/FaceInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <folding>
+            <marker date="1555987787610" expanded="true" signature="63:130" ph="{...}" />
+            <marker date="1555987787610" expanded="true" signature="176:247" ph="{...}" />
+            <marker date="1555987787610" expanded="true" signature="288:516" ph="{...}" />
+            <marker date="1555987787610" expanded="true" signature="562:660" ph="{...}" />
+            <marker date="1555987787610" expanded="true" signature="703:776" ph="{...}" />
+            <marker date="1555987787610" expanded="true" signature="821:951" ph="{...}" />
+            <marker date="1555987787610" expanded="true" signature="991:1043" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NuitrackSDK/Nuitrack/Scripts/BlendshapeWeights.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+          <folding>
+            <marker date="1547547446000" expanded="true" signature="50:3688" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="290:692" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="384:432" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="467:515" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="528:576" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="737:1123" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="860:964" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="977:1081" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="1169:1561" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="1293:1399" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="1412:1518" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="1599:1776" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="1819:2178" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="1922:1973" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="1986:2037" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="2222:2590" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="2328:2380" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="2393:2445" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="2636:2800" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="2850:3028" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="3079:3257" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="3306:3471" ph="{...}" />
+            <marker date="1547547446000" expanded="true" signature="3521:3686" ph="{...}" />
           </folding>
         </state>
       </provider>

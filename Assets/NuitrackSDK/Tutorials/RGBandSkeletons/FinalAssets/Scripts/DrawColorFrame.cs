@@ -12,6 +12,6 @@ public class DrawColorFrame : MonoBehaviour
 
     void DrawColor(nuitrack.ColorFrame frame)
     {
-        background.texture = frame.ToTexture2D();
+        background.texture = frame.ToTexture2D();//将RGB的视频信息转化为2d纹理。赋值给background
     }
 }
