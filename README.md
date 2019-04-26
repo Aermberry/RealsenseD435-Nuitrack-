@@ -1,6 +1,6 @@
 # RealSense D435接入Nuitrack SDK
 
-由于现行的RealSense SDK2.0 已不再提供Unity的视觉跟踪的smaple,所以改接入第三的SDK.
+由于现行的RealSense SDK2.0 已不再提供Unity的视觉跟踪的smaple,所以改接入第三方的SDK.
 
 #### 安装
 
